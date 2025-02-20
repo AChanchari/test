@@ -1,0 +1,10 @@
+/* este es mi primer comentario en css */
+/* Este es el normalize*/
+* {
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    color: red;
+    font-size: 75px;
+}
